@@ -69,5 +69,5 @@ javac -d ..\classes -classpath ..\..\dl\classes;..\..\bl\classes;. com\thinking\
 ```
 * Now its time to run full application so for this you have to go to classes folder and type the following command.
 ```
-java -classpath ..\..\dl\classes;..\..\bl\classes;. Main
+java -classpath ..\..\dl\classes;..\..\bl\classes;. com.thinking.machines.inventory.ma.Main
 ```
