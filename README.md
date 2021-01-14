@@ -1,5 +1,8 @@
 # Inventory Management System
 This project is basically can be used in restraunt and some other warehourse type application where we have to manage data for store goods and changing records in our system if goods are changed. Also in this you can take all the store goods records in form of pdf at any time you want. Firstly i developed this project with use of file management system in for storing data instead of database and i developed full application with help of this concept after that i developed full application with database at back end also.
+
+## Features
+
 So In this application we have following features:
 
 1) Add Data To Inventory
@@ -9,9 +12,9 @@ So In this application we have following features:
 5) Generate pdf of stored data in inventory.
 
 ## PREREQUISITE
-Front end : Java Swing
-Back end: Java
-Database: Java db
+Front end : Java Swing  
+Back end: Java  
+Database: Java db  
 
 ## INSTALLATION AND RUNNING 
 * Firstly fork full project
